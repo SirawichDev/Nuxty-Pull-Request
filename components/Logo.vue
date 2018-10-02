@@ -72,7 +72,7 @@
 }
 @keyframes goright {
   100% {
-    left: 70px;
+    left: 90px;
   }
 }
 </style>
